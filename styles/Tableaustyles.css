@@ -1,0 +1,11 @@
+.cent{
+    text-align: center;
+    list-style-position: inside ;}
+
+    .custom {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+
